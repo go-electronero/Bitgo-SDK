@@ -8,7 +8,7 @@
  * |____/|_|\__|\____|\___/____/|____/|_|\_\                                         
  *
  * @package BitGoSDK PHP
- * @author  Neto Melo <neto737@live.com>
+ * @author  Neto Mel <neto737@live.com>
  * @license https://www.gnu.org/licenses/gpl-3.0.html GNU General Public License v3
  * @version 2.1
  */
