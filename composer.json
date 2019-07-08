@@ -1,0 +1,26 @@
+{
+    "name": "bjolbordi/bitgosdk-php",
+    "description": "A BitGo SDK written in PHP",
+    "type": "library",
+    "keywords": ["bitgo", "sdk", "bitcoin"],
+    "license": "GPL-3.0",
+
+    "authors": [
+        {
+            "name": "jolbordo gvelo",
+            "email": "bjolbordi@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "bjolbordi\\BitGoSDK\\": "src/"
+        }
+    },
+
+    "require": {
+        "php": ">=7.0",
+        "ext-curl": "*",
+        "ext-bcmath": "*"
+    }
+}
